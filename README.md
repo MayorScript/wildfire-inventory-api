@@ -12,7 +12,7 @@
 - [License](#license)
 
 ## Introduction
-This is a test application to demonstrate the following:
+This is a sample application to demonstrate the following:
 - Explore the NASA EONET API
 - Create a single API route that will accept month and year query parameters and returns all wildfire events that ended in that particular month. 
 - Scalabe application structure
